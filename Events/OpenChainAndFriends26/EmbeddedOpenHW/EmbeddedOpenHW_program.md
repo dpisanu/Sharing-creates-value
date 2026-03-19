@@ -12,38 +12,43 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 # Keynotes
 |![Charley Mann](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/CMann-300x300.jpeg)![Florian Wohlrab](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/Florian_Wohlrab-OpenHW-300x300.jpg)|
 |-------------------|
-|Charley Mann & Florian Wohlrab OpenHW Foundation|
+| Charley Mann & Florian Wohlrab OpenHW Foundation |
 |[Keynote Embedded&OpenHW: Driving European Digital Autonomy and Leadership through RISC-V: How can Europe capture the €630 billion semiconductor industry., *Charley Mann (Eclipse OpenHW), Flo Wohlrab (Eclipse OpenHW)*](#K2)|
 
 
 # Agenda
-- ***DAY1 TUESDAY 24.3.2026 [Stuttgart-Feuerbach SCC Bregenzer Str. 26A, 70469 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dbd374e9c621:0xcad9aaa4488db0b?sa=X&ved=1t:8290&ictx=111)***
-- TUESDAY SCC ROOM1 10:40-11:00 **K2** [Keynote Embedded&OpenHW: Driving European Digital Autonomy and Leadership through RISC-V: How can Europe capture the €630 billion semiconductor industry., *Charley Mann (Eclipse OpenHW), 
-Flo Wohlrab (Eclipse OpenHW)*](#K2)<a name="K2m">
-- ***DAY2 WEDNESDAY 25.3.2026 [Stuttgart-Feuerbach SCC Bregenzer Str. 26A, 70469 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dbd374e9c621:0xcad9aaa4488db0b?sa=X&ved=1t:8290&ictx=111)***
-- WEDNESDAY SCC ROOM3 09:00-17:00 **T2.2-Moderator** [Rüdiger Laschewski-Grossbaier (Innolintec)](#T2.2-Moderator)<a name="T2.2-Moderatorm">  
-- WEDNESDAY SCC ROOM3 09:00-09:15 **T2.2-1** [Welcome, Planning, Overview, *Organizers*](#T2.2-1)<a name="T2.2-1m">  
-- WEDNESDAY SCC ROOM3 09:15-09:45 **T2.2-2** [Can’t fork a semiconductor? Hold my beer… Introducing the Unified RISC-V IP Access Platform, *Charley Mann (Eclipse OpenHW), 
-Flo Wohlrab (Eclipse OpenHW)*](#T2.2-2)<a name="T2.2-2m">
-- WEDNESDAY SCC ROOM3 09:45-10:15 **T2.2-3** [tba](#T2.2-3)<a name="T2.2-3m">  
-- WEDNESDAY SCC ROOM3 10:15-10:45 **T2.2-4** [How to make FABulous eFPGA Design robust with Open Source tools, *Prof. Dirk Koch
-(Neuartige Rechentechnologien
-Universität Heidelberg)*](#T2.2-4)<a name="T2.2-4m">
-- WEDNESDAY SCC ROOM3 11:05-11:35 **T2.2-5** [Developing an open source digital design flow using
-OpenROAD with X-FAB 350 nm technologies, *Filip Vukoja (X-FAB)*](#T2.2-5)<a name="T2.2-5m">
-- WEDNESDAY SCC ROOM3 11:35-12:05 **T2.2-6** [From “Trust me” to “Check me” – open source verification for high assurance silicon, *Massimiliano Giacometti , Founder, PlanV*](#T2.2-6)<a name="T2.2-6m">    
-- WEDNESDAY SCC ROOM3 12:05-12:35 **T2.2-7** [N.N, *N.N*](#T2.2-7)<a name="T2.2-7m">  
-- WEDNESDAY SCC ROOM3 12:35-12:45 **T2.2-8** [Highlights, Next Steps, *Organizers*](#T2.2-8)<a name="T2.2-8m">  
-- WEDNESDAY SCC ROOM3 14:00-14:30 **T2.2-9** [RISC-V based multi core Sensor device, *Dr. Dirk Behrens (Sensry)*](#T2.2-9)<a name="T2.2-9m">  
-- WEDNESDAY SCC ROOM3 14:30-15:00 **T2.2-10** [Derisking silicon
-implementation using
-Virtual Prototypes, *Eyck Jentzsch (MINRES Technologies GmbH)*](#T2.2-10)<a name="T2.2-10m">
-- WEDNESDAY SCC ROOM3 15:00-15:30 **T2.2-11** [Tailoring the Open Source CVA6 RISC-V processor for real time automotive applications, *Nicolas Triebie (Bosch)*](#T2.2-11)<a name="T2.2-11m">  
-- WEDNESDAY SCC ROOM3 16:00-16:20 **T2.2-12** [OCDC Pro / Layar Challenge, *N.N. (GI, Ges. Informatik)*](#T2.2-12)<a name="T2.2-12m">  
-- WEDNESDAY SCC ROOM3 16:20-16:40 **T2.2-13** [TBD, *TBD*](#T2.2-13)<a name="T2.2-13m">  
-- WEDNESDAY SCC ROOM3 16:40-17:00 **T2.2-14** [Common Session, *All facilitators*](#T2.2-14)<a name="T2.2-14m">  
-  
 
+## DAY1 TUESDAY 24.3.2026 
+<img src="../.assets/maps_pin.svg" width="15" height="15"> [Stuttgart-Feuerbach SCC Bregenzer Str. 26A, 70469 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dbd374e9c621:0xcad9aaa4488db0b?sa=X&ved=1t:8290&ictx=111)
+
+**[ROOM1]**
+
+* 10:40-11:00 | **K2** | [Keynote Embedded&OpenHW: Driving European Digital Autonomy and Leadership through RISC-V: How can Europe capture the €630 billion semiconductor industry., *Charley Mann (Eclipse OpenHW), 
+Flo Wohlrab (Eclipse OpenHW)*](#K2)<a name="K2m">
+
+## DAY2 WEDNESDAY 25.3.2026
+<img src="../.assets/maps_pin.svg" width="15" height="15"> [Stuttgart-Feuerbach SCC Bregenzer Str. 26A, 70469 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dbd374e9c621:0xcad9aaa4488db0b?sa=X&ved=1t:8290&ictx=111)
+
+**[ROOM3]**
+
+09:00-17:00 | **T2.2-Moderator** | [Rüdiger Laschewski-Grossbaier (Innolintec)](#T2.2-Moderator)<a name="T2.2-Moderatorm">
+
+* 09:00-09:15 | **T2.2-1** | [Welcome, Planning, Overview, *Organizers*](#T2.2-1)<a name="T2.2-1m">
+* 09:15-09:45 | **T2.2-2** | [Can’t fork a semiconductor? Hold my beer… Introducing the Unified RISC-V IP Access Platform, *Charley Mann (Eclipse OpenHW), 
+Flo Wohlrab (Eclipse OpenHW)*](#T2.2-2)<a name="T2.2-2m">
+* 09:45-10:15 | **T2.2-3** | [tba](#T2.2-3)<a name="T2.2-3m">  
+* 10:15-10:45 | **T2.2-4** | [How to make FABulous eFPGA Design robust with Open Source tools, *Prof. Dirk Koch (Neuartige Rechentechnologien Universität Heidelberg)*](#T2.2-4)<a name="T2.2-4m">
+* 11:05-11:35 | **T2.2-5** | [Developing an open source digital design flow using OpenROAD with X-FAB 350 nm technologies, *Filip Vukoja (X-FAB)*](#T2.2-5)<a name="T2.2-5m">
+* 11:35-12:05 | **T2.2-6** | [From “Trust me” to “Check me” – open source verification for high assurance silicon, *Massimiliano Giacometti , Founder, PlanV*](#T2.2-6)<a name="T2.2-6m">    
+* 12:05-12:35 | **T2.2-7** | [N.N, *N.N*](#T2.2-7)<a name="T2.2-7m">  
+* 12:35-12:45 | **T2.2-8** | [Highlights, Next Steps, *Organizers*](#T2.2-8)<a name="T2.2-8m">  
+* 14:00-14:30 | **T2.2-9** | [RISC-V based multi core Sensor device, *Dr. Dirk Behrens (Sensry)*](#T2.2-9)<a name="T2.2-9m">  
+* 14:30-15:00 | **T2.2-10** | [Derisking silicon implementation using Virtual Prototypes, *Eyck Jentzsch (MINRES Technologies GmbH)*](#T2.2-10)<a name="T2.2-10m">
+* 15:00-15:30 | **T2.2-11** | [Tailoring the Open Source CVA6 RISC-V processor for real time automotive applications, *Nicolas Triebie (Bosch)*](#T2.2-11)<a name="T2.2-11m">  
+* 16:00-16:20 | **T2.2-12** | [OCDC Pro / Layar Challenge, *N.N. (GI, Ges. Informatik)*](#T2.2-12)<a name="T2.2-12m">  
+* 16:20-16:40 | **T2.2-13** | [TBD, *TBD*](#T2.2-13)<a name="T2.2-13m">  
+* 16:40-17:00 | **T2.2-14** | [Common Session, *All facilitators*](#T2.2-14)<a name="T2.2-14m">  
+  
 # Details
 <a name="K2"></a>  
 ## Keynote Embedded&OpenHW: Driving European Digital Autonomy and Leadership through RISC-V: How can Europe capture the €630 billion semiconductor industry. 
@@ -51,16 +56,20 @@ Virtual Prototypes, *Eyck Jentzsch (MINRES Technologies GmbH)*](#T2.2-10)<a name
 ### Abstract:  
 tba
   
-*Charley Mann (Eclipse OpenHW), 
-Flo Wohlrab (Eclipse OpenHW)*  
+*Charley Mann (Eclipse OpenHW) <a href="https://www.linkedin.com/in/charley-mann/"> <img src="../.assets/linkedin.svg" width="15" height="15">
+</a> <a href="https://accounts.eclipse.org/users/charleymann"> <img src="../.assets/web.svg" width="15" height="15">
+</a>, Florian Wohlrab (Eclipse OpenHW) <a href="https://www.linkedin.com/in/florian-wohlrab/"> <img src="../.assets/linkedin.svg" width="15" height="15">
+</a> <a href="https://accounts.eclipse.org/users/florianwohlrab"> <img src="../.assets/web.svg" width="15" height="15">
+</a>* 
   
 ### Bio  
 Florian Wohlrab
+
 Flo is the Head of the OpenHW Foundation, an international non profit organisation dedicated to curating and maintaining high-quality, industrial-grade, open source RISC-V Cores. Flo is fascinated by RISC-V and is dedicated to increasing access to high-quality RISC-V IP and promoting the RISC-V ISA worldwide. Alongside, he was also one of the first RISC-V International Ambassadors. Before leading the OpenHW Foundation Flo was Head of Sales for a commercial RISC-V provider where he focussed on markets in Japan, Europe and Middle East.
 
 Charley Mann
+
 Charley Mann is a technical communicator and recovering journalist, helping engineers explain what their projects do, so fellow engineers can use them and not-so-technical folks can understand them. After a stint covering breaking news across APAC, she discovered open source technology and never looked back. For the past decade she's led technical content at organizations including Camunda and the CNCF, and today works at the OpenHW Foundation and Eclipse Foundation. Alongside, she serves as the comms lead for Chips JU project TRISTAN to advance RISC-V adoption across Europe.
-  
   
 ### Slides:
 
@@ -70,11 +79,11 @@ Charley Mann is a technical communicator and recovering journalist, helping engi
 
 *link to webinar announcement / recording*
 
- 
-
 <sub>[go to schedule](#K2m)</sub>
+
 <a name="T2.2-Moderator"></a>  
-## Moderator
+
+## Moderators
 
 *Rüdiger Laschewski-Grossbaier (Innolintec)* 
     
